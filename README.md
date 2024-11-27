@@ -10,6 +10,14 @@ O objetivo do jogo é reforçar conceitos de lógica de programação, como o us
 
 ---
 
+## 🌐 Acesse o Jogo
+
+Você pode jogar diretamente através do link abaixo:
+
+👉 [Jogue agora!](https://jogo-eight-eta-66.vercel.app/)
+
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 As principais ferramentas e tecnologias utilizadas no desenvolvimento deste projeto foram:
